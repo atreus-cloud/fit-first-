@@ -1,0 +1,7 @@
+{
+  "name": "fitfirst-nutrition-os",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Mobile-first calorie tracker with food database lookup and AI photo meal analysis endpoints",
+  "scripts": {"dev":"vercel dev"}
+}

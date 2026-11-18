@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "api/scan.js": { "maxDuration": 60 },
+    "api/foods/search.js": { "maxDuration": 20 }
+  }
+}

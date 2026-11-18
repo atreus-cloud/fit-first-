@@ -1,0 +1,11 @@
+{
+  "name": "FitFirst Nutrition OS",
+  "short_name": "FitFirst",
+  "description": "Mobile-first nutrition and calorie tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "orientation": "portrait",
+  "icons": [ { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" } ]
+}
